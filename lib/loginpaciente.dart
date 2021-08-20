@@ -14,7 +14,7 @@ class LoginPaciente extends StatefulWidget {
 
 class _LoginPacienteState extends State<LoginPaciente> {
   String ced = '1313275214';
-  String contra = 'paciente1';
+  String contra = 'pac1';
   String mensaje = 'a';
   final cedcontroller = TextEditingController();
   final contraController = TextEditingController();
